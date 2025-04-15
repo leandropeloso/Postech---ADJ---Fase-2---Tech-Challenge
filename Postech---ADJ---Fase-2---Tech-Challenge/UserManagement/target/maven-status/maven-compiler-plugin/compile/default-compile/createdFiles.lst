@@ -1,0 +1,17 @@
+com\example\usermanagement\model\MenuItem.class
+com\example\usermanagement\model\Restaurant.class
+com\example\usermanagement\repository\UserTypeRepository.class
+com\example\usermanagement\service\UserTypeService.class
+com\example\usermanagement\controller\RestaurantController.class
+com\example\usermanagement\controller\UserController.class
+com\example\usermanagement\controller\UserTypeController.class
+com\example\usermanagement\repository\RestaurantRepository.class
+com\example\usermanagement\model\User.class
+com\example\usermanagement\repository\MenuItemRepository.class
+com\example\usermanagement\controller\MenuItemController.class
+com\example\usermanagement\model\UserType.class
+com\example\usermanagement\repository\UserRepository.class
+com\example\usermanagement\service\UserService.class
+com\example\usermanagement\UserManagementApplication.class
+com\example\usermanagement\service\MenuItemService.class
+com\example\usermanagement\service\RestaurantService.class
